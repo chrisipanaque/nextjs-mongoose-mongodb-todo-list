@@ -1,5 +1,7 @@
 ## Todo List App
 
+Live Demo: https://nextjs-mongoose-mongodb-todo-list.vercel.app/
+
 ### Front End
 
 - Next.js
@@ -9,5 +11,3 @@
 
 - Mongoose
 - MongoDB
-
-Live Demo: https://graphql-mongodb-todo-list.herokuapp.com/
